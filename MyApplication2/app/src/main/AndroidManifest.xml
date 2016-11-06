@@ -15,7 +15,13 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+<<<<<<< HEAD
+        <activity android:name=".ReadActivity" />
+        <activity android:name=".UpDateResult" />
+        <activity android:name=".DeleteActivity"></activity>
+=======
         <activity android:name=".ReadActivity"></activity>
+>>>>>>> b9f51a388ce7a062177841f78fa5b11ce6b6343e
     </application>
 
 </manifest>
